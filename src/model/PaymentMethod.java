@@ -1,4 +1,4 @@
-//classe PaymentMethod
+
 
 
 package model;
